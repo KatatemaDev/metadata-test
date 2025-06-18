@@ -10,7 +10,8 @@
       "pull-request"
     ]
   },
-  "version": "1.0.0",
-  "testType": "initial-file",
-  "createdAt": "2025-06-18T13:16:31.998Z"
+  "version": "2.0.0",
+  "testType": "overwrite-test",
+  "updatedAt": "2025-06-18T13:16:33.983Z",
+  "newFeature": "file-overwrite-with-backup"
 }
