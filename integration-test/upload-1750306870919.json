@@ -1,7 +1,7 @@
 {
   "timestamp": "2025-06-19T04:21:10.412Z",
   "testSuite": "github-service-integration",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "features": {
     "fileOperations": [
       "upload",
@@ -30,5 +30,5 @@
     "testedBy": "integration-test-script",
     "architecture": "unified-service"
   },
-  "operation": "upload"
+  "operation": "overwrite"
 }
