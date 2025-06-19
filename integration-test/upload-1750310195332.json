@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-06-19T05:16:34.752Z",
+  "testSuite": "github-service-integration",
+  "version": "2.0.0",
+  "features": {
+    "fileOperations": [
+      "upload",
+      "overwrite",
+      "get-content"
+    ],
+    "branchOperations": [
+      "create",
+      "upload-with-branch"
+    ],
+    "pullRequestOperations": [
+      "create",
+      "composite-upload-and-pr"
+    ],
+    "installationManagement": [
+      "list",
+      "get-repos"
+    ],
+    "errorHandling": [
+      "invalid-params",
+      "permission-denied"
+    ]
+  },
+  "metadata": {
+    "integrationDate": "2025-06-19",
+    "testedBy": "integration-test-script",
+    "architecture": "unified-service"
+  },
+  "operation": "upload"
+}
